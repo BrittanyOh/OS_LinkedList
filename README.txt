@@ -22,7 +22,6 @@ make - Runs commands to create an executable files(list_test.o, list.o, test) fo
 # CHALLENGES
 - Learning/understanding C langauge
 - Understanding how to create a make file
-- Fighting through depressive episode to finally start/finish project
 
 # RESOURCES/DISCUSSIONS
 malloc - allocates requested memory & returns a pointer to it
